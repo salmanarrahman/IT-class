@@ -24,4 +24,4 @@ Installation
 
 git clone https://github.com/yourusername/local-dining-guide.git 
 cd local-dining-guide 
-open index.html
+open index.html 
